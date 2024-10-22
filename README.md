@@ -17,14 +17,14 @@
 
 ## Images
 
-### Task Input Interface
-![Task Input](Screenshot 2024-10-22 211705.png)
 
-### Dependency Management
-![Dependencies](Screenshot 2024-10-22 211730.png)
+![Task Input](./Screenshot%202024-10-22%20211705.png)
 
-### Project Timeline
-![Project Timeline](Screenshot 2024-10-22 211750.png)
 
-### Project Timeline
-![Project Timeline](Screenshot 2024-10-22 211808.png)
+![Dependencies](./Screenshot%202024-10-22%20211730.png)
+
+
+![Project Timeline](./Screenshot%202024-10-22%20211750.png)
+
+
+![Project Timeline](./Screenshot%202024-10-22%20211808.png)
