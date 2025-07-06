@@ -1,5 +1,5 @@
 ## Project Overview
-- **Workflow Manager:** manage and track project tasks with automated workflow adjustments. The platform helps teams plan, execute, and monitor projects effectively by managing task deadlines based on dependencies and estimates.
+- **PlanWise:** manage and track project tasks with automated workflow adjustments. The platform helps teams plan, execute, and monitor projects effectively by managing task deadlines based on dependencies and estimates.
 
 ## Features
 - **Task Estimates:** Input optimistic, most likely, and pessimistic task durations.
